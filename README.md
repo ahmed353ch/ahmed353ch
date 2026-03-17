@@ -1,4 +1,4 @@
-Hi there 👋 I'm Ahmed Hassan!
+Hi there 👋 I'm Ahmed abdelrazeq!
 
 I am an expert **UI/UX Designer** and **Frontend Developer** specializing in creating immersive, high-performance web experiences. I bridge the gap between aesthetic design and functional engineering using modern technologies.
 
